@@ -1,0 +1,3 @@
+UserName = "Ninjanano12"
+WebHook = "https://discordapp.com/api/webhooks/998956301126225990/ZYv0AhHPz2ANCnmxqba3CiC9klLBGn60bcZt0QV-ax23RFOMKY1u1136sluMDD9eAb1d"
+Mention = true -- change to false if you don't want to get everyone ping in your webhook.
